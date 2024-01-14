@@ -1,0 +1,15 @@
+C:\Projetos\DotNetLessons\MyConsoleApplication\bin\Debug\net6.0\MyConsoleApplication.exe
+C:\Projetos\DotNetLessons\MyConsoleApplication\bin\Debug\net6.0\MyConsoleApplication.deps.json
+C:\Projetos\DotNetLessons\MyConsoleApplication\bin\Debug\net6.0\MyConsoleApplication.runtimeconfig.json
+C:\Projetos\DotNetLessons\MyConsoleApplication\bin\Debug\net6.0\MyConsoleApplication.dll
+C:\Projetos\DotNetLessons\MyConsoleApplication\bin\Debug\net6.0\MyConsoleApplication.pdb
+C:\Projetos\DotNetLessons\MyConsoleApplication\obj\Debug\net6.0\MyConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DotNetLessons\MyConsoleApplication\obj\Debug\net6.0\MyConsoleApplication.AssemblyInfoInputs.cache
+C:\Projetos\DotNetLessons\MyConsoleApplication\obj\Debug\net6.0\MyConsoleApplication.AssemblyInfo.cs
+C:\Projetos\DotNetLessons\MyConsoleApplication\obj\Debug\net6.0\MyConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Projetos\DotNetLessons\MyConsoleApplication\obj\Debug\net6.0\MyConsoleApplication.dll
+C:\Projetos\DotNetLessons\MyConsoleApplication\obj\Debug\net6.0\refint\MyConsoleApplication.dll
+C:\Projetos\DotNetLessons\MyConsoleApplication\obj\Debug\net6.0\MyConsoleApplication.pdb
+C:\Projetos\DotNetLessons\MyConsoleApplication\obj\Debug\net6.0\MyConsoleApplication.genruntimeconfig.cache
+C:\Projetos\DotNetLessons\MyConsoleApplication\obj\Debug\net6.0\ref\MyConsoleApplication.dll
+C:\Projetos\DotNetLessons\MyConsoleApplication\obj\Debug\net6.0\MyConsoleApplication.sourcelink.json
