@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cskwh/C/QPicC8Gdg2yybTf0iLAvaCLeSUiuuojUdhbzzQPp6oMU8RyNxjbdw3sSHf1amQkZ5giSRfXci8lKRQ==",
+  "dgSpecHash": "KGtfRP5MOb6wuPYDpNN10TCnLiSTQwoPG9PjakCGKbgQyZMEkAHEGWFLz7khCfA8P8pAG2zbKlPewNaxbxzpOA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\DotNetLessons\\MyConsoleApplication\\MyConsoleApplication.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\angel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\angel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\angel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\angel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Project\\DotNetLessons\\MyConsoleApplication\\MyConsoleApplication.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
