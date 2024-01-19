@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MySecondConsoleApplication/1.0.0": {
+        "runtime": {
+          "MySecondConsoleApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MySecondConsoleApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

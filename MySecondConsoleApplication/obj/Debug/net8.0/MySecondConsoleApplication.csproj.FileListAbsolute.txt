@@ -1,0 +1,15 @@
+C:\Project\DotNetLessons\MySecondConsoleApplication\bin\Debug\net8.0\MySecondConsoleApplication.exe
+C:\Project\DotNetLessons\MySecondConsoleApplication\bin\Debug\net8.0\MySecondConsoleApplication.deps.json
+C:\Project\DotNetLessons\MySecondConsoleApplication\bin\Debug\net8.0\MySecondConsoleApplication.runtimeconfig.json
+C:\Project\DotNetLessons\MySecondConsoleApplication\bin\Debug\net8.0\MySecondConsoleApplication.dll
+C:\Project\DotNetLessons\MySecondConsoleApplication\bin\Debug\net8.0\MySecondConsoleApplication.pdb
+C:\Project\DotNetLessons\MySecondConsoleApplication\obj\Debug\net8.0\MySecondConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\DotNetLessons\MySecondConsoleApplication\obj\Debug\net8.0\MySecondConsoleApplication.AssemblyInfoInputs.cache
+C:\Project\DotNetLessons\MySecondConsoleApplication\obj\Debug\net8.0\MySecondConsoleApplication.AssemblyInfo.cs
+C:\Project\DotNetLessons\MySecondConsoleApplication\obj\Debug\net8.0\MySecondConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Project\DotNetLessons\MySecondConsoleApplication\obj\Debug\net8.0\MySecondConsoleApplication.sourcelink.json
+C:\Project\DotNetLessons\MySecondConsoleApplication\obj\Debug\net8.0\MySecondConsoleApplication.dll
+C:\Project\DotNetLessons\MySecondConsoleApplication\obj\Debug\net8.0\refint\MySecondConsoleApplication.dll
+C:\Project\DotNetLessons\MySecondConsoleApplication\obj\Debug\net8.0\MySecondConsoleApplication.pdb
+C:\Project\DotNetLessons\MySecondConsoleApplication\obj\Debug\net8.0\MySecondConsoleApplication.genruntimeconfig.cache
+C:\Project\DotNetLessons\MySecondConsoleApplication\obj\Debug\net8.0\ref\MySecondConsoleApplication.dll

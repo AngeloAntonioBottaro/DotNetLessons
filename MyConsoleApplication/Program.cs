@@ -180,7 +180,7 @@ int[] studentScores = new int[10];
 string currentStudentLetterGrade = "";
 
 // display the header row for scores/grades
-Console.Clear();
+//Console.Clear();
 Console.WriteLine("Student\t\tGrade\n");
 
 /*
@@ -263,20 +263,3 @@ foreach (string name in studentNames)
 // required for running in VS Code (keeps the Output windows open to view results)
 Console.WriteLine("\n\rPress the Enter key to continue");
 Console.ReadLine();
-
-
-//Console.WriteLine("\n**************************************\n");
-//Console.WriteLine("\n**************************************\n");
-//Console.WriteLine("\n**************************************\n");
-//Console.WriteLine("\n**************************************\n");
-//Console.WriteLine("\n**************************************\n");
-//Console.WriteLine("\n**************************************\n");
-//Console.WriteLine("\n**************************************\n");
-//Console.WriteLine("\n**************************************\n");
-//Console.WriteLine("\n**************************************\n");
-//Console.WriteLine("\n**************************************\n");
-//Console.WriteLine("\n**************************************\n");
-//Console.WriteLine("\n**************************************\n");
-//Console.WriteLine("\n**************************************\n");
-//Console.WriteLine("\n**************************************\n");
-//Console.WriteLine("\n**************************************\n");
