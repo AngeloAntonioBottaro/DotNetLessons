@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AnSTIEtyAoeKOhAdhdhrhT6eMLVxNeIiyqjPy40tfjfjlLe+9vDdEiTQTauUhXD/wRPCkANDEsn3SCX2BynCRg==",
+  "dgSpecHash": "mghC7GYOKxPykER0BC5q8DBX5fvQHDWrKp/9ToTkI5CtGB9yLMLkMM1EzZ4p7PaJu9hmLJIazYe1N8+IrBEyrA==",
   "success": true,
-  "projectFilePath": "C:\\Project\\DotNetLessons\\MySecondConsoleApplication\\MySecondConsoleApplication.csproj",
+  "projectFilePath": "C:\\Projetos\\DotNetLessons\\MySecondConsoleApplication\\MySecondConsoleApplication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

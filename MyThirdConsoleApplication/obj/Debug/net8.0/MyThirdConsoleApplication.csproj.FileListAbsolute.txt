@@ -1,0 +1,15 @@
+C:\Projetos\DotNetLessons\MyThirdConsoleApplication\bin\Debug\net8.0\MyThirdConsoleApplication.exe
+C:\Projetos\DotNetLessons\MyThirdConsoleApplication\bin\Debug\net8.0\MyThirdConsoleApplication.deps.json
+C:\Projetos\DotNetLessons\MyThirdConsoleApplication\bin\Debug\net8.0\MyThirdConsoleApplication.runtimeconfig.json
+C:\Projetos\DotNetLessons\MyThirdConsoleApplication\bin\Debug\net8.0\MyThirdConsoleApplication.dll
+C:\Projetos\DotNetLessons\MyThirdConsoleApplication\bin\Debug\net8.0\MyThirdConsoleApplication.pdb
+C:\Projetos\DotNetLessons\MyThirdConsoleApplication\obj\Debug\net8.0\MyThirdConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DotNetLessons\MyThirdConsoleApplication\obj\Debug\net8.0\MyThirdConsoleApplication.AssemblyInfoInputs.cache
+C:\Projetos\DotNetLessons\MyThirdConsoleApplication\obj\Debug\net8.0\MyThirdConsoleApplication.AssemblyInfo.cs
+C:\Projetos\DotNetLessons\MyThirdConsoleApplication\obj\Debug\net8.0\MyThirdConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Projetos\DotNetLessons\MyThirdConsoleApplication\obj\Debug\net8.0\MyThirdConsoleApplication.sourcelink.json
+C:\Projetos\DotNetLessons\MyThirdConsoleApplication\obj\Debug\net8.0\MyThirdConsoleApplication.dll
+C:\Projetos\DotNetLessons\MyThirdConsoleApplication\obj\Debug\net8.0\refint\MyThirdConsoleApplication.dll
+C:\Projetos\DotNetLessons\MyThirdConsoleApplication\obj\Debug\net8.0\MyThirdConsoleApplication.pdb
+C:\Projetos\DotNetLessons\MyThirdConsoleApplication\obj\Debug\net8.0\MyThirdConsoleApplication.genruntimeconfig.cache
+C:\Projetos\DotNetLessons\MyThirdConsoleApplication\obj\Debug\net8.0\ref\MyThirdConsoleApplication.dll

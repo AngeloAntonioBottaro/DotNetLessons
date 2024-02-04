@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\developer\\.nuget\\packages\\": {}
+    "C:\\Users\\angel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project\\DotNetLessons\\MySecondConsoleApplication\\MySecondConsoleApplication.csproj",
+      "projectUniqueName": "C:\\Projetos\\DotNetLessons\\MySecondConsoleApplication\\MySecondConsoleApplication.csproj",
       "projectName": "MySecondConsoleApplication",
-      "projectPath": "C:\\Project\\DotNetLessons\\MySecondConsoleApplication\\MySecondConsoleApplication.csproj",
-      "packagesPath": "C:\\Users\\developer\\.nuget\\packages\\",
-      "outputPath": "C:\\Project\\DotNetLessons\\MySecondConsoleApplication\\obj\\",
+      "projectPath": "C:\\Projetos\\DotNetLessons\\MySecondConsoleApplication\\MySecondConsoleApplication.csproj",
+      "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\DotNetLessons\\MySecondConsoleApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\developer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
