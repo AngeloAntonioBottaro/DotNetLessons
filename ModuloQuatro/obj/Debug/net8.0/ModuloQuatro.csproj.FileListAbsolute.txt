@@ -1,0 +1,15 @@
+C:\Projetos\DotNetLessons\ModuloQuatro\bin\Debug\net8.0\ModuloQuatro.exe
+C:\Projetos\DotNetLessons\ModuloQuatro\bin\Debug\net8.0\ModuloQuatro.deps.json
+C:\Projetos\DotNetLessons\ModuloQuatro\bin\Debug\net8.0\ModuloQuatro.runtimeconfig.json
+C:\Projetos\DotNetLessons\ModuloQuatro\bin\Debug\net8.0\ModuloQuatro.dll
+C:\Projetos\DotNetLessons\ModuloQuatro\bin\Debug\net8.0\ModuloQuatro.pdb
+C:\Projetos\DotNetLessons\ModuloQuatro\obj\Debug\net8.0\ModuloQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DotNetLessons\ModuloQuatro\obj\Debug\net8.0\ModuloQuatro.AssemblyInfoInputs.cache
+C:\Projetos\DotNetLessons\ModuloQuatro\obj\Debug\net8.0\ModuloQuatro.AssemblyInfo.cs
+C:\Projetos\DotNetLessons\ModuloQuatro\obj\Debug\net8.0\ModuloQuatro.csproj.CoreCompileInputs.cache
+C:\Projetos\DotNetLessons\ModuloQuatro\obj\Debug\net8.0\ModuloQuatro.sourcelink.json
+C:\Projetos\DotNetLessons\ModuloQuatro\obj\Debug\net8.0\ModuloQuatro.dll
+C:\Projetos\DotNetLessons\ModuloQuatro\obj\Debug\net8.0\refint\ModuloQuatro.dll
+C:\Projetos\DotNetLessons\ModuloQuatro\obj\Debug\net8.0\ModuloQuatro.pdb
+C:\Projetos\DotNetLessons\ModuloQuatro\obj\Debug\net8.0\ModuloQuatro.genruntimeconfig.cache
+C:\Projetos\DotNetLessons\ModuloQuatro\obj\Debug\net8.0\ref\ModuloQuatro.dll
